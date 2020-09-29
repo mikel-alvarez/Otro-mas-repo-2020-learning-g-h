@@ -1,3 +1,4 @@
 # Otro-mas-repo-2020-learning-g-h
 Branch y conflicts
-Añadp una nueva funcionalidad
+
+Añado una nueva funcionalidad
